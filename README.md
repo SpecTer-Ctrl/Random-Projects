@@ -1,4 +1,4 @@
 # Random-Projects
 Random projects by a student
 
-Im bored
+Im bored.
